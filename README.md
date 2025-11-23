@@ -179,7 +179,5 @@ This project is inspired by:
 
 ---
 
-For any questions or enterprise integration support, feel free to reach out!
-
 
 
